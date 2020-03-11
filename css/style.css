@@ -17,7 +17,7 @@ body {
   text-align: center;
 }
 
-/* #cabecera #tagline {
+#cabecera #tagline {
   padding: 0 0 0 1em;
   font-weight: normal;
   font-size: 0.8em;
@@ -25,11 +25,11 @@ body {
 
 #container {
   width: 70%;
-  padding: 1em;
+  padding: 0em;
   text-align: left;
   border: 1px solid blue;
   margin: 0 auto;
 }
 #container h1 {
   font-size: 25px;
-} */
+}
